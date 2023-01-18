@@ -6,6 +6,6 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestThatAlwaysPass(t *testing.T) {
+func TestThatAlwaysPasses(t *testing.T) {
 	assert.Equal(t, 1, 1)
 }
